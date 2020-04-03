@@ -1,0 +1,25 @@
+# 文件夹
+/project/Temp/
+/project/Logs/
+/project/Library/
+/project/Assets/AssetStoreTools*
+
+# vs 文件
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Builds
+*.apk
+*.unitypackage
