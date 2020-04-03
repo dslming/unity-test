@@ -29,6 +29,7 @@
 - [X] 改变文件夹名字
 - [X] 删除文件夹
 - [X] 修改Canvas-Text文本内容
+- [X] 改变工程配置(Edit -> Project Settings -> Audio 第一项)
 
 测试结果: git 均可检测到变化。
 
