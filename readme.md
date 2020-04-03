@@ -14,6 +14,7 @@
 - [X] canvas
 - [X] 增加 FBX模型
 - [X] 增加自定义包(Assets -> Import Package -> Custom Package)
+- [X] 从AssetStore导入资源
 
 测试结果: git 均可检测到变化。
 
