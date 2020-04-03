@@ -15,7 +15,6 @@
 - [X] 增加 FBX模型
 - [X] 增加自定义包(Assets -> Import Package -> Custom Package)
 - [X] 从AssetStore导入资源
-- [X] 编辑器设置(改变窗口布局)
 
 测试结果: git 均可检测到变化。
 
@@ -39,5 +38,18 @@
 - [X] 分支合并
 
 测试结果: git操作后对应UNITY项目可以正确加载改变后的场景。
+
+
+#### 4、git不能检测的内容
+以下项目设置后git检测不到变化。
+- [X] 编辑器设置(改变窗口布局)
+<img src="./noteImg/002.png">
+- [X] 改变视图
+<img src="./noteImg/001.png">
+- [x] Build Settings
+<img src="./noteImg/003.png">
+
+结论: 一些本地操作设置,不会对运行结果产生影响的操作,不会被git检测到变化。
+
 
 <全文结束>
