@@ -15,6 +15,7 @@
 - [X] 增加 FBX模型
 - [X] 增加自定义包(Assets -> Import Package -> Custom Package)
 - [X] 从AssetStore导入资源
+- [X] 编辑器设置(改变窗口布局)
 
 测试结果: git 均可检测到变化。
 
